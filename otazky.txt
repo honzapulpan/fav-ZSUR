@@ -1,0 +1,4 @@
+Otázky:
+
+- máme methody programovat podle algoritmů tak jsk jsme se je učili, nebo se je snažit vylepšit? Nebo je prácě cílem popsat, co se může pokazit?
+- chce python skript, nebo může být i jupyter notebook?
